@@ -1,3 +1,6 @@
+/* for scalability and further centering, we will need to 'stick' the html and body to the page at size */
+
+
 img {
 	width: 100%;
 }

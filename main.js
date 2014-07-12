@@ -18,4 +18,12 @@ $(document).on('ready', function() {
 		console.log("Hover " + $(this).offset());
 	})
 
+	// this gets document width, we need to create a percentage of this number to specify the offset for the tacs
+	// console.log("this is doc width: " + $(document).width());
+	// console.log("this is body width: " + $("body").width());
+
+
+	// colorado - centered GPS coordinates
+	//    39.154990, -105.682540
+
 });
